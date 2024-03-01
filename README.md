@@ -1,7 +1,7 @@
-# Namaste Frontend System Design 🚀
-
+# Frontend System Design In Depth 🚀
 
 # Security
+
 - XSS
 - CSRF
 - IFrame Protection
@@ -17,23 +17,24 @@
 - Subresource Integrity (SRI)
 - Cross-Origin Resource Sharing (CORS)
 
-
 # Testing
--  Unit Testing & Integration Testing
-    - Component Testing
-    - Jest & JS DOM
-    - Testing Library / React Testing Library
+
+- Unit Testing & Integration Testing
+  - Component Testing
+  - Jest & JS DOM
+  - Testing Library / React Testing Library
 - Automation Testing
-    - e2e Test cases
-    - Tools - Puppeteer , Cypress, Selenium
- - A/B Testing
-    - Split Testing / Bucket Testing
- - Performance Testing
-    - Lighthouse
- - Test Driven Development
-    - Red - Green - Refactor
+  - e2e Test cases
+  - Tools - Puppeteer , Cypress, Selenium
+- A/B Testing
+  - Split Testing / Bucket Testing
+- Performance Testing
+  - Lighthouse
+- Test Driven Development
+  - Red - Green - Refactor
 
 # Accessibility
+
 - Overview
 - What & Why?
 - Screen Readers
